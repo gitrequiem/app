@@ -1,0 +1,13 @@
+.title-container1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1; /* Asegúrate de que esté por encima del GIF */
+    text-align: center;
+    color: rgb(255, 255, 255); /* Ajusta el color según sea necesario */
+}
+
+
+
+

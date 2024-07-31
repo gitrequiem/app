@@ -1,0 +1,5 @@
+.scrollable-form {
+    max-height: 80vh; /* Ajusta según sea necesario */
+    overflow-y: auto;
+    padding-right: 10px; /* Para evitar que el contenido se esconda detrás del scrollbar */
+  }

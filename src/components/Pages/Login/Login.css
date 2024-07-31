@@ -1,0 +1,11 @@
+.bg-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ajusta la imagen para que cubra todo el contenedor manteniendo la relación de aspecto */
+    transform: translate(-50%, -50%);
+    z-index: -1; /* Coloca la imagen detrás del contenido */
+    opacity: 0.98; /* Ajusta la opacidad según sea necesario */
+}
